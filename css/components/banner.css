@@ -1,0 +1,19 @@
+.banner {
+  background: url("../../images/background.png");
+  color: white;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  display: flex;
+  justify-content: center;
+  font-family: inherit;
+  font-size: 80px;
+  margin: -200px auto;
+}
+
+.banner p {
+  display: flex;
+  justify-content: center;
+  margin-top: 220px;
+}
